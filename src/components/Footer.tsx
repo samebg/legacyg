@@ -7,7 +7,7 @@ const Footer = () => {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex flex-col md:flex-row justify-between items-center">
           <div className="flex items-center mb-4 md:mb-0">
-            <img src="/Genie Legacy.png" alt="Génie Legacy" className="h-8 w-8" />
+            <img src="https://raw.githubusercontent.com/samebg/legacyg/refs/heads/main/public/Genie-Legacy.png" alt="Génie Legacy" className="h-8 w-8" />
             <span className="ml-2 text-gold font-semibold">Génie Legacy</span>
           </div>
           <div className="flex space-x-6">

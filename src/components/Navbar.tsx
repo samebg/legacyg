@@ -7,7 +7,7 @@ const Navbar = () => {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex items-center justify-between h-16">
           <div className="flex items-center">
-            <img src="/Genie Legacy.png" alt="Génie Legacy" className="h-10 w-10" />
+            <img src="https://raw.githubusercontent.com/samebg/legacyg/refs/heads/main/public/Genie-Legacy.png" alt="Génie Legacy" className="h-10 w-10" />
             <span className="ml-2 text-gold font-semibold text-xl">Génie Legacy</span>
           </div>
           <div className="hidden md:block">
